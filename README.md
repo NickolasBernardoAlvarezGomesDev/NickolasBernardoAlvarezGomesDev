@@ -83,9 +83,8 @@ Atuo no desenvolvimento de soluções completas — desde a camada eletrônica e
 
 ---
 
-## 📊 **Estatísticas**
-
-## 📊 **Estatísticas**
+<!--
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -103,14 +102,9 @@ Atuo no desenvolvimento de soluções completas — desde a camada eletrônica e
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NickolasBernardoAlvarezGomesDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+-->
 
 
 ---
 
-Se quiser, posso criar também:  
-✔ versão minimalista  
-✔ versão completamente técnica (estilo engenheiro)  
-✔ versão com seções adicionais (experiência, contato, objetivos)  
-✔ versão com GIFs, animações ou badges extras  
 
-Só pedir! 😊
