@@ -102,9 +102,9 @@ Atuo no desenvolvimento de soluções completas — desde a camada eletrônica e
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NickolasBernardoAlvarezGomesDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
--->
+--
 
 
----
+--->
 
 
