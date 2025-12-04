@@ -7,7 +7,7 @@ Sou desenvolvedor de soluções voltadas para instrumentação ambiental, automa
 Atuo tanto na camada física dos equipamentos (projetos eletrônicos, montagem, manutenção e calibração), quanto na camada lógica (firmware, protocolos, aquisição e tratamento de dados). Tenho experiência em instrumentação meteorológica, oceanográfica e maregráfica, além de projetos avançados como desenvolvimento de máquinas automatizadas, impressão 3D e sistemas com inteligência embarcada.
 
 
-<p align="left"> <a href="https://github.com/NickolasBernardo?tab=repositories"> <img alt="Total de Repositórios" title="Repositórios" src="https://custom-icon-badges.demolab.com/github/stars/NickolasBernardo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/NickolasBernardo?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/NickolasBernardo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
+
 ⚙️ Áreas de Atuação
 
 Desenvolvimento de firmware embarcado (ESP32, Micropython, C)
