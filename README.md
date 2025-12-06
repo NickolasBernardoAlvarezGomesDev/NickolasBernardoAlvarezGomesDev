@@ -46,7 +46,7 @@ Atuo no desenvolvimento de soluções completas — desde a camada eletrônica e
 ## 🔧 **Tecnologias & Ferramentas**
 
 <img align="left" alt="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="Micropython" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/micropython/micropython-original.svg"/>
+<img align="left" alt="Micropython" width="40px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg"/>
 <img align="left" alt="C" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="left" alt="Arduino" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
 <img align="left" alt="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
