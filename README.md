@@ -40,6 +40,10 @@ Atuo no desenvolvimento de soluções completas — desde a camada eletrônica e
 - Prototipagem mecânica e eletrônica (impressão 3D, CNC)
 - Desenvolvimento de máquinas e soluções customizadas (Pick and Place)
 - Processamento e análise de sinais
+- Desenvolvimento de software e scripts em **Python, JavaScript, Kotlin e R**
+- Desenvolvimento de interfaces e dashboards web (**HTML, CSS, JavaScript**) para monitoramento e visualização de dados
+- Integração com sistemas **SCADA** e protocolos industriais
+- Desenvolvimento e manutenção de lógica em **HDL (VHDL)** para sistemas digitais dedicados
 
 ---
 
@@ -48,12 +52,19 @@ Atuo no desenvolvimento de soluções completas — desde a camada eletrônica e
 <img align="left" alt="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Micropython" width="40px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg"/>
 <img align="left" alt="C" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="left" alt="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Kotlin" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt="R" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
+<img align="left" alt="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" alt="Arduino" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
 <img align="left" alt="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 <img align="left" alt="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="3D Printing" width="40px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/5995/5995366.png"/>
 
 <br><br>
+
+> Também possuo experiência com **VHDL**, sistemas **SCADA**, protocolos industriais, integração de sensores e pipelines completos de aquisição, tratamento e envio de dados.
 
 ---
 
@@ -102,9 +113,5 @@ Atuo no desenvolvimento de soluções completas — desde a camada eletrônica e
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NickolasBernardoAlvarezGomesDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
---
-
-
---->
-
+-->
 
